@@ -1,6 +1,6 @@
 # 📌️ Filtrar elemento de um array
 
-O método filter() chama uma função callback para cada elemento do array e constrói um novo array com todos os valores que retornaram true.
+O método `filter()`chama uma função callback para cada elemento do array e constrói um novo array com todos os valores que retornaram `true`.
 
 Por exemplo:
 
